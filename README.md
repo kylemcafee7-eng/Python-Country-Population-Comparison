@@ -1,4 +1,4 @@
-This project was for a python class I took in college: 
+This project was for a python class I took in college. Unfortuantely I don't have the files for my final project and the files that I still have aren't really notable enough to share, I do have a video where I show my code and describe the function of the project though
 
 For my final project I created a game in which the user will be asked which of two randomly selected countries (and territories) has a larger population. Once they give an answer they are told whether they were right or wrong and a bar graph will pop up to show the difference in population between the two countries. You earn one point for every right answer and at the end of the game the program saves your score if it happens to be a high score. 
 
